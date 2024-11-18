@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stegano PWA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Steganography Tool</h1>
+        <div class="form">
+            <h2>Hide a Message</h2>
+            <form id="hideForm" method="POST" enctype="multipart/form-data" action="/hide">
+                <input type="file" name="image" required>
+                <textarea name="message" placeholder="Enter your message" required></textarea>
+                <button type="submit">Hide Message</button>
+            </form>
+        </div>
+        <div class="form">
+            <h2>Extract a Message</h2>
+            <form id="extractForm" method="POST" enctype="multipart/form-data" action="/extract">
+                <input type="file" name="image" required>
+                <button type="submit">Extract Message</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

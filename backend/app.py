@@ -55,4 +55,4 @@ def extract_message():
     return jsonify({"message": extracted_message})
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='20.123.41.154', port=8000, debug=True)

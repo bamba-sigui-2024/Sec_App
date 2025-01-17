@@ -5,7 +5,7 @@ This project is a **steganography application** that allows users to hide sensit
 
 Initially, the project was planned for deployment on **Microsoft Azure**, but due to unforeseen constraints, it was ultimately deployed on **Amazon Web Services (AWS)**. The application is now live and accessible through the following link:
 
-[Access the Application Here](not yet realized)
+[https://secapp.me/]
 
 ---
 

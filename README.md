@@ -5,7 +5,7 @@ This project is a **steganography application** that allows users to hide sensit
 
 Initially, the project was planned for deployment on **Microsoft Azure**, but due to unforeseen constraints, it was ultimately deployed on **Amazon Web Services (AWS)**. The application is now live and accessible through the following link:
 
-[Access the Application Here](INSERT_LINK_HERE)
+[Access the Application Here](not yet realized)
 
 ---
 
@@ -33,4 +33,7 @@ Initially, the project was planned for deployment on **Microsoft Azure**, but du
 For more information or support, please contact:
 - **Name**: Bamba sigui
 - **Email**: sigui.bamba@supcom.tn
+
+- **Name**: Kouamé Apia Don Alex
+- **Email**: apiadonalex.kouame@supcom.tn
 
